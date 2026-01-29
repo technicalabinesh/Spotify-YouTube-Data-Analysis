@@ -9,7 +9,7 @@ This project focuses on analyzing sales data to uncover meaningful business insi
 - Analyze monthly and yearly sales trends  
 - Study regional and customer-wise sales patterns  
 - Generate actionable insights using data analysis techniques
-
+- 
 ## 🛠️ Tools & Technologies Used
 - **Python**
 - **Pandas** – Data manipulation and analysis  
