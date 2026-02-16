@@ -1,7 +1,9 @@
 # 📊 Sales Data Analysis Project
 
+
 ## 📌 Project Overview
 This project focuses on analyzing sales data to uncover meaningful business insights such as revenue trends, top-performing products, customer behavior, and regional performance. The analysis helps stakeholders make data-driven decisions to improve sales strategy and profitability.
+
 
 ## 🎯 Objectives
 - Understand overall sales performance  
